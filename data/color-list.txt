@@ -1,0 +1,267 @@
+#f9a1d0	鴇色	ときいろ	7RP 7.5/8	JIS
+#cb4b94	躑躅色	つつじいろ	7RP 5/13	JIS
+#ffdbed	桜色	さくらいろ	10RP 9/2.5	JIS
+#d34778	薔薇色	ばらいろ	1R 5/13	JIS
+#e3557f	唐紅	からくれない	1.5R 5.5/13	JIS
+#ff87a0	珊瑚色	さんごいろ	2.5R 7/11	JIS
+#e08899	紅梅色	こうばいいろ	2.5R 6.5/7.5	JIS
+#e38698	桃色	ももいろ	2.5R 6.5/8	JIS
+#bd1e48	紅色	べにいろ	3R 4/14	JIS
+#b92946	紅赤	べにあか	3.5R 4/13	JIS
+#ae3846	臙脂	えんじ	4R 4/11	JIS
+#974b52	蘇芳	すおう	4R 4/7	JIS
+#a0283a	茜色	あかねいろ	4R 3.5/11	JIS
+#bf1e33	赤	あか	4R 3.5/11	JIS
+#ed514e	朱色	しゅいろ	6R 5.5/14	JIS
+#a14641	紅樺色	べにかばいろ	6R 4/8.5	JIS
+#ee5145	紅緋	べにひ	6.8R 5.5/14	JIS
+#d3503c	鉛丹色	えんたんいろ	7.5R 5/12	JIS
+#703b32	紅海老茶	べにえびちゃ	7.5R 3/5	JIS
+#7d483e	鳶色	とびいろ	7.5R 3.5/5	JIS
+#946259	小豆色	あずきいろ	8R 4.5/4.5	JIS
+#8a4031	弁柄色	べんがらいろ	8R 3.5/7	JIS
+#6d3d33	海老茶	えびちゃ	8R 3/4.5	JIS
+#ed542a	金赤	きんあか	9R 5.5/14	JIS
+#b15237	赤茶	あかちゃ	9R 3.5/8.5	JIS
+#923a21	赤錆色	あかさびいろ	9R 3.5/8.5	JIS
+#ef6d3e	黄丹	おうに	10R 6/12	JIS
+#ed551b	赤橙	あかだいだい	10R 5.5/14	JIS
+#e06030	柿色	かきいろ	10R 5.5/12	JIS
+#b97761	肉桂色	にっけいいろ	10R 5.5/6	JIS
+#bd4a1d	樺色	かばいろ	10R 4.5/11	JIS
+#974e33	煉瓦色	れんがいろ	10R 4/7	JIS
+#664134	錆色	さびいろ	10R 3/3.5	JIS
+#8a604f	檜皮色	ひわだいろ	1YR 4.3/4	JIS
+#754c38	栗色	くりいろ	2YR 3.5/4	JIS
+#e45e00	黄赤	きあか	2.5YR 5.5/13	JIS
+#ba6432	代赭	たいしゃ	2.5YR 5/8.5	JIS
+#b67a52	駱駝色	らくだいろ	4YR 5.5/6	JIS
+#bb6421	黄茶	きちゃ	4YR 5/9	JIS
+#f4be9b	肌色	はだいろ	5YR 8/5	JIS
+#fd7e00	橙色	だいだいいろ	5YR 6.5/13	JIS
+#866955	灰茶	はいちゃ	5YR 4.5/3	JIS
+#734e30	茶色	ちゃいろ	5YR 3.5/4	JIS
+#594639	焦茶	こげちゃ	5YR 3/2	JIS
+#ffa75e	柑子色	こうじいろ	5.5YR 7.5/9	JIS
+#dda273	杏色	あんずいろ	6YR 7/6	JIS
+#fa8000	蜜柑色	みかんいろ	6YR 6.5/13	JIS
+#763900	褐色	かっしょく	6YR 3/7	JIS
+#a96e2d	土色	つちいろ	7.5YR 5/7	JIS
+#d9a46d	小麦色	こむぎいろ	8YR 7/6	JIS
+#c67400	琥珀色	こはくいろ	8YR 5.5/6.5	JIS
+#c47600	金茶	きんちゃ	9YR 5.5/10	JIS
+#fabe6f	卵色	たまごいろ	10YR 8/7.5	JIS
+#ffa500	山吹色	やまぶきいろ	10YR 7.5/13	JIS
+#c18a39	黄土色	おうどいろ	10YR 6/7.5	JIS
+#897868	朽葉色	くちばいろ	10YR 5/2	JIS
+#ffb500	向日葵色	ひまわりいろ	2Y 8/14	JIS
+#fcac00	鬱金色	うこんいろ	2Y 7.5/12	JIS
+#c9b9a8	砂色	すないろ	2.5Y 7.5/2	JIS
+#cda966	芥子色	からしいろ	3Y 7/6	JIS
+#ffbe00	黄色	きいろ	5Y 8/14	JIS
+#ffbe00	蒲公英色	たんぽぽいろ	5Y 8/14	JIS
+#70613a	鶯茶	うぐいすちゃ	5Y 4/3.5	JIS
+#fad43a	中黄	ちゅうき	5Y 8.5/11	JIS
+#eed67e	刈安色	かりやすいろ	7Y 8.5/7	JIS
+#d9cb65	黄蘗色	きはだいろ	9Y 8/8	JIS
+#736f55	海松色	みるいろ	9.5Y 4.5/2.5	JIS
+#c2c05c	鶸色	ひわいろ	1GY 7.5/8	JIS
+#71714a	鶯色	うぐいすいろ	1GY 4.5/3.5	JIS
+#bdbf92	抹茶色	まっちゃいろ	2GY 7.5/4	JIS
+#b9c42f	黄緑	きみどり	2.5GY 7.5/11	JIS
+#7a7f46	苔色	こけいろ	2.5GY 5/5	JIS
+#a9b735	若草色	わかくさいろ	3GY 7/10	JIS
+#96aa3d	萌黄	もえぎ	4GY 6.5/9	JIS
+#72814b	草色	くさいろ	5GY 5/5	JIS
+#afc297	若葉色	わかばいろ	7GY 7.5/4.5	JIS
+#6e815c	松葉色	まつばいろ	7.5GY 5/4	JIS
+#cadbcf	白緑	びゃくろく	2.5G 8.5/2.5	JIS
+#4db56a	緑	みどり	2.5G 6.5/10	JIS
+#357c4c	常磐色	ときわいろ	3G 4.5/7	JIS
+#5f836d	緑青色	ろくしょういろ	4G 5/4	JIS
+#4a6956	千歳緑	ちとせみどり	4G 4/3.5	JIS
+#005731	深緑	ふかみどり	5G 3/7	JIS
+#15543b	萌葱色	もえぎいろ	5.5G 3/5	JIS
+#49a581	若竹色	わかたけいろ	6G 6/7.5	JIS
+#80aa9f	青磁色	せいじいろ	7.5G 6.5/4	JIS
+#7aaaac	青竹色	あおたけいろ	2.5BG 6.5/4	JIS
+#244344	鉄色	てついろ	2.5BG 2.5/2.5	JIS
+#0090a8	青緑	あおみどり	7.5BG 5/12	JIS
+#6c8d9b	錆浅葱	さびあさぎ	10BG 5.5/3	JIS
+#7a99aa	水浅葱	みずあさぎ	1.5B 6/3	JIS
+#69aac6	新橋色	しんばしいろ	2.5B 6.5/5.5	JIS
+#0087aa	浅葱色	あさぎいろ	2.5B 5/8	JIS
+#84b5cf	白群	びゃくぐん	3B 7/4.5	JIS
+#166a88	納戸色	なんどいろ	4B 4/6	JIS
+#8cb4ce	瓶覗	かめのぞき	4.5B 7/4	JIS
+#a9ceec	水色	みずいろ	6B 8/4	JIS
+#5e7184	藍鼠	あいねず	7.5B 4.5/2.5	JIS
+#95c0ec	空色	そらいろ	9B 7.5/5.5	JIS
+#0067c0	青	あお	10B 4/14	JIS
+#2e4b71	藍色	あいいろ	2PB 3/5	JIS
+#20324e	濃藍	こいあい	2PB 2/3.5	JIS
+#92afe4	勿忘草色	わすれなぐさいろ	3PB 7/6	JIS
+#3d7cce	露草色	つゆくさいろ	3PB 5/11	JIS
+#3c639b	縹色・花田色	はなだいろ	3PB 4/7.5	JIS
+#3d496b	紺青	こんじょう	5PB 3/4	JIS
+#3451a4	瑠璃色	るりいろ	6PB 3.5/11	JIS
+#324784	瑠璃紺	るりこん	6PB 3/8	JIS
+#333c5e	紺色	こんいろ	6PB 2.5/4	JIS
+#4c5dab	杜若色	かきつばたいろ	7PB 4/10	JIS
+#383c57	勝色	かちいろ	7PB 2.5/3	JIS
+#414fa3	群青色	ぐんじょういろ	7.5PB 3.5/11	JIS
+#232538	鉄紺	てつこん	7.5PB 1.5/2	JIS
+#6869a8	藤納戸	ふじなんど	9PB 4.5/7.5	JIS
+#4a49ad	桔梗色	ききょういろ	9PB 3.5/13	JIS
+#35357d	紺藍	こんない	9PB 2.5/9.5	JIS
+#a09bd8	藤色	ふじいろ	10PB 6.5/6.5	JIS
+#948bdb	藤紫	ふじむらさき	0.5P 6/9	JIS
+#704cbc	青紫	あおむらさき	2.5P 4/14	JIS
+#6d52ab	菫色	すみれいろ	2.5P 4/11	JIS
+#675d7e	鳩羽色	はとばいろ	2.5P 4/3.5	JIS
+#7051aa	菖蒲色	しょうぶいろ	2.5P 4/3.5	JIS
+#5f4c86	江戸紫	えどむらさき	3P 3.5/7	JIS
+#a260bf	紫	むらさき	7.5P 5/12	JIS
+#775686	古代紫	こだいむらさき	7.5P 4/6	JIS
+#47384f	茄子紺	なすこん	7.5P 2.5/2.5	JIS
+#402949	紫紺	しこん	8P 2/4	JIS
+#c27bc8	菖蒲色	あやめいろ	10P 6/10	JIS
+#c24dae	牡丹色	ぼたんいろ	3RP 5/14	JIS
+#c54ea0	赤紫	あかむらさき	5RP 5.5/13	JIS
+#f1f1f1	白	しろ	N9.5	JIS
+#f2e8ec	胡粉色	ごふんいろ	2.5Y 9.2/0.5	JIS
+#f0e2e0	生成り色	きなりいろ	10YR 9/1	JIS
+#e3d4ca	象牙色	ぞうげいろ	2.5Y 8.5/1.5	JIS
+#a0a0a0	銀鼠	ぎんねず	N6.5	JIS
+#9f9190	茶鼠	ちゃねずみ	5YR 6/1	JIS
+#868686	鼠色	ねずみいろ	N5.5	JIS
+#787c7a	利休鼠	りきゅうねずみ	2.5G 5/1	JIS
+#797a88	鉛色	なまりいろ	2.5PB 5/1	JIS
+#797979	灰色	はいいろ	N5	JIS
+#605448	煤竹色	すすたけいろ	9.5YR 3.5/1.5	JIS
+#3e2e28	黒茶	くろちゃ	2.5YR 2/1.5	JIS
+#313131	墨	すみ	N2	JIS
+#262626	黒	くろ	N1.5	JIS
+#262626	鉄黒	てつぐろ	N1.5	JIS
+#c74f90	ローズレッド	Rose Red	7.5RP 5/12	JIS
+#ef93b6	ローズピンク	Rose Pink	10RP 7/8	JIS
+#af3168	コチニールレッド	Cochineal Red	10RP 4/12	JIS
+#b91e68	ルビーレッド	Ruby Red	10RP 4/14	JIS
+#83274e	ワインレッド	Wine Red	10RP 3/9	JIS
+#452a35	バーガンディー	Burgundy	10RP 2/2.5	JIS
+#c97f96	オールドローズ	Old Rose	1R 6/6.5	JIS
+#d94177	ローズ	Rose	1R 5/14	JIS
+#bb1e5e	ストロベリー	Strawberry	1R 4/14	JIS
+#ff87a0	コーラルレッド	Coral Red	2.5R 7/11	JIS
+#eb97a8	ピンク	Pink	2.5R 7/7	JIS
+#55353b	ボルドー	Bordeaux	2.5R 2.5/3	JIS
+#ffc9d2	ベビーピンク	Baby Pink	4R 8.5/4	JIS
+#dd4157	ポピーレッド	Poppy Red	4R 5/14	JIS
+#ce314a	シグナルレッド	Signal Red	4R 4.5/14	JIS
+#be1e3e	カーマイン	Carmine	4R 4/14	JIS
+#de424c	レッド	Red	5R 5/14	JIS
+#de424c	トマトレッド	Tomato Red	5R 5/14	JIS
+#682a2b	マルーン	Maroon	5R 2.5/6	JIS
+#ed514e	バーミリオン	Vermilion	6R 5.5/14	JIS
+#de4335	スカーレット	Scarlet	7R 5/14	JIS
+#ac5647	テラコッタ	Terracotta	7.5R 4.5/8	JIS
+#ffa594	サーモンピンク	Salmon Pink	8R 7.5/7.5	JIS
+#fbccc3	シェルピンク	Shell Pink	10R 8.5/3.5	JIS
+#f1beb1	ネールピンク	Nail Pink	10R 8/4	JIS
+#ff5d20	チャイニーズレッド	Chinese Red	10R 6/15	JIS
+#cc572c	キャロットオレンジ	Carrot Orange	10R 5/11	JIS
+#a8593c	バーントシェンナ	Burnt Sienna	10R 4.5/7.5	JIS
+#52372f	チョコレート	Chocolate	10R 2.5/2.5	JIS
+#754c38	ココアブラウン	Cocoa Brown	2YR 3.5/4	JIS
+#ebc0af	ピーチ	Peach	3YR 8/3.5	JIS
+#bb6421	ローシェンナ	Raw Sienna	4YR 5/9	JIS
+#fd7e00	オレンジ	Orange	5YR 6.5/13	JIS
+#734e31	ブラウン	Brown	5YR 3.5/4	JIS
+#dda273	アプリコット	Apricot	6YR 7/6	JIS
+#a56f3f	タン	Tan	6YR 5/6	JIS
+#fd951e	マンダリンオレンジ	Mandarin Orange	7YR 7/11.5	JIS
+#a58161	コルク	Cork	7YR 5.5/4	JIS
+#f8cfae	エクルベイジュ	Ecru Beige	7.5YR 8.5/4	JIS
+#f39a38	ゴールデンイエロー	Golden Yellow	7.5YR 7/10	JIS
+#ffa000	マリーゴールド	Marigold	8YR 7.5/13	JIS
+#c5996d	バフ	Buff	8YR 6.5/5	JIS
+#b37d40	アンバー	Amber	8YR 5.5/6.5	JIS
+#815a2b	ブロンズ	Bronze	8.5YR 4/5	JIS
+#c1ab96	ベージュ	Beige	10YR 7/2.5	JIS
+#c18a39	イエローオーカー	Yellow ochre	10YR 6/7.5	JIS
+#5b462a	バーントアンバー	Burnt Umber	10YR 3/3	JIS
+#4a3b2a	セピア	Sepia	10YR 2.5/2	JIS
+#9a753a	カーキー	Khaki	1Y 5/5.5	JIS
+#e3b466	ブロンド	Blond	2Y 7.5/7	JIS
+#f2c26b	ネープルスイエロー	Naples Yellow	2.5Y 8/7.5	JIS
+#e1c59b	レグホーン	Leghorn	2.5Y 8/4	JIS
+#7f5c13	ローアンバー	Raw Umber	2.5Y 4/6	JIS
+#ffbc00	クロムイエロー	Chrome Yellow	3Y 8/12	JIS
+#ffcc00	イエロー	Yellow	5Y 8.5/14	JIS
+#e8d5af	クリームイエロー	Cream Yellow	5Y 8.5/3.5	JIS
+#ffcc00	ジョンブリアン	Jaune brillant	5Y 8.5/14	JIS
+#f7d54e	カナリア	金糸雀	7Y 8.5/10	JIS
+#68624e	オリーブドラブ	Olivedrab	7.5Y 4/2	JIS
+#605627	オリーブ	Olive	7.5Y 3.5/4	JIS
+#e8c800	レモンイエロー	Lemon Yellow	8Y 8/12	JIS
+#565838	オリーブグリーン	Olive Green	2.5GY 3.5/3	JIS
+#bdd458	シャトルーズグリーン	Chartreuse Green	4GY 8/10	JIS
+#879d4e	リーフグリーン	Leaf Green	5GY 6/7	JIS
+#737c3e	グラスグリーン	Grass Green	5GY 5/5	JIS
+#9ab961	シーグリーン	Sea Green	6GY 7/8	JIS
+#516a39	アイビーグリーン	Ivy Green	7.5GY 4/5	JIS
+#b0d3a8	アップルグリーン	Apple Green	10GY 8/5	JIS
+#81cc91	ミントグリーン	Mint Green	2.5G 7.5/8	JIS
+#2a9b50	グリーン	Green	2.5G 5.5/10	JIS
+#5dc288	コバルトグリーン	Cobalt Green	4G 7/9	JIS
+#4da573	エメラルドグリーン	Emerald Green	4G 6/8	JIS
+#008047	マラカイトグリーン	Malachite Green	4G 4.5/9	JIS
+#264435	ボトルグリーン	Bottle Green	5G 2.5/3	JIS
+#3e795c	フォレストグリーン	Forest Green	7.5G 4.5/5	JIS
+#156f5c	ビリジアン	Viridian	8G 4/6	JIS
+#004840	ビリヤードグリーン	Billiard Green	10G 2.5/5	JIS
+#007f91	ピーコックグリーン	Peacock Green	7.5BG 4.5/9	JIS
+#5190a4	ナイルブルー	Nile Blue	10BG 5.5/5	JIS
+#00708b	ピーコックブルー	Peacock Blue	10BG 4/8.5	JIS
+#399ecc	ターコイズブルー	Turquoise Blue	5B 6/8	JIS
+#005175	マリンブルー	Marine Blue	5B 3/7	JIS
+#91b2d2	ホライズンブルー	Horizon Blue	7.5B 7/4	JIS
+#219ddd	シアン	Cyan	7.5B 6/10	JIS
+#95c0ec	スカイブルー	Sky Blue	9B 7.5/5.5	JIS
+#0b74af	セルリアンブルー	Cerulean Blue	9B 4.5/9	JIS
+#abbdda	ベビーブルー	Baby Blue	10B 7.5/3	JIS
+#627da1	サックスブルー	Saxe Blue	1PB 5/4.5	JIS
+#3170b9	ブルー	Blue	2.5PB 4.5/10	JIS
+#2863ab	コバルトブルー	Cobalt Blue	3PB 4/10	JIS
+#3d496b	アイアンブルー	Iron Blue	5PB 3/4	JIS
+#3d496b	プルシャンブルー	Prussian Blue	5PB 3/4	JIS
+#00152d	ミッドナイトブルー	Midnight Blue	5PB 1.5/2	JIS
+#7586bb	ヒヤシンス	Hyacinth	5.5PB 5.5/6	JIS
+#333c5e	ネービーブルー	Navy Blue	6PB 2.5/4	JIS
+#414fa3	ウルトラマリンブルー	Ultramarine Blue	7.5PB 3.5/11	JIS
+#37438f	オリエンタルブルー	Oriental Blue	7.5PB 3/10	JIS
+#776ed2	ウィスタリア	Wistaria	10PB 5/12	JIS
+#40317e	パンジー	Pansy	1P 2.5/10	JIS
+#836dc5	ヘリオトロープ	Heliotrope	2P 5/10.5	JIS
+#6d52ab	バイオレット	Violet	2.5P 4/11	JIS
+#9e8eae	ラベンダー	Lavender	5P 6/3	JIS
+#835fa8	モーブ	Mauve	5P 4.5/9	JIS
+#c2a2da	ライラック	Lilac	6P 7/6	JIS
+#c7a1d7	オーキッド	Orchid	7.5P 7/6	JIS
+#a260bf	パープル	Purple	7.5P 5/12	JIS
+#c949a2	マゼンタ	Magenta	5RP 5/14	JIS
+#cf61a5	チェリーピンク	Cherry Pink	6RP 5.5/11.5	JIS
+#f1f1f1	ホワイト	White	N9.5	JIS
+#f1f1f1	スノーホワイト	Snow White	N9.5	JIS
+#e3d4ca	アイボリー	Ivory	2.5Y 8.5/1.5	JIS
+#babac6	スカイグレイ	Sky Grey	7.5B 7.5/0.5	JIS
+#adadad	パールグレイ	Pearl Grey	N7	JIS
+#A0a0a0	シルバーグレイ	Silver Grey	N6.5	JIS
+#939393	アッシュグレイ	Ash Grey	N6	JIS
+#93848b	ローズグレイ	Rose Grey	2.5R 5.5/1	JIS
+#797979	グレイ	Grey	N5	JIS
+#736c79	スチールグレイ	Steel Grey	5P 4.5/1	JIS
+#56555e	スレートグレイ	Slate Grey	2.5PB 3.5/0.5	JIS
+#4e4854	チャコールグレイ	Charcoal Grey	5P 3/1	JIS
+#1c1c1c	ランプブラック	Lamp Black	N1	JIS
+#1c1c1c	ブラック	Black	N1	JIS

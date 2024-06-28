@@ -1,0 +1,53 @@
+
+.hidden {
+  display: none !important;
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.form-color {
+  margin: 20px 0;
+}
+
+.color-row {
+  margin: 5px;
+}
+
+.color-sample::before {
+  opacity: 0;
+  content: "_____";
+}
+
+.color-name {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.color-altname {
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 0.9em;
+}
+
+.color-code {
+  margin-top: 10px;
+  margin-left: 15px;
+  font-size: 0.9em;
+}
+
+.color-munsell {
+  margin-top: 10px;
+  margin-left: 15px;
+  font-size: 0.9em;
+}
+
+.color-rgb {
+  margin-top: 10px;
+  margin-left: 15px;
+  font-size: 0.9em;
+}
